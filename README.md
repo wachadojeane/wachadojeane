@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil GitHub 👋
 
 ## Sobre Mim
-👩‍💻 Na luta para se uma desenvolvedora de Software
+👩‍💻 Na luta para ser uma desenvolvedora de Software
 🌱 Apaixonada por tecnologia
 🎓 ADS
 📍 Baseada em IFSC São José-SC
