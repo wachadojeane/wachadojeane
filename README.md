@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bem-vindo ao Meu Perfil GitHub 👋
 
-<!--
-**wachadojeane/wachadojeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+👩‍💻 Na luta para se uma desenvolvedora de Software
+🌱 Apaixonada por tecnologia
+🎓 ADS
+📍 Baseada em IFSC São José-SC
 
-Here are some ideas to get you started:
+## Linguagens e Ferramentas
+Praticando JavaScript
+Aprendendo Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+[Projeto 1] Nenhum até o momento
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wachadojeane&show_icons=true&theme=radical)
+
+## Contato
+LinkedIn: [Jeane Machado]([link_para_o_seu_perfil](https://chat.google.com/room/AAAAdi7Bcxk/Z2Qw7vf391s/Z2Qw7vf391s?cls=10))
+Email: jeanemachadosilva@gmail.com
+Portfolio: Nenhum até o momento
